@@ -47,7 +47,11 @@ An app for communicating between users, finding friends, corresponding in groups
 
 <br></br>
 
-## Usage
+## Special Usage
+- Using the rsa package for making a asymmetric keys and cryptograpthy to make symmetric key which are used for making a secured connection between the server and client. this is possible by the server sending the encrypt asymmetric key which the client use for sending the server the symmetric key, this key will be used for the connection.
+- The server is able to have multiple client connenction so many clients can talk and use the app together
+- The server and client supports FTP (File Transformation protocol) so clients can shere files and pictures for downloading and viewing it.
+- The client graphic interface is simple and easy to use for talking with friends in dm's and groups.
 
 
 
