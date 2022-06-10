@@ -20,7 +20,7 @@ An app for communicating between users, finding friends, corresponding in groups
   <img src= "https://github.com/barShadmi/BarChat/blob/b573e100abaa99516c1e75f2a5829bf1094fcef4/BarChatReadmefiles/SignIn.gif" height="250">
 </p>
 
-- **Add and remove freids**
+- **Add and remove friends**
 <p align="center">
   <img src= "https://github.com/barShadmi/BarChat/blob/b573e100abaa99516c1e75f2a5829bf1094fcef4/BarChatReadmefiles/AddRemoveFriend2.gif" height="250">
 </p>
